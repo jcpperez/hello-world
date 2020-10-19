@@ -14,3 +14,5 @@ mylist = [1,2,2,2,2,4,4,5,5]
 set(mylist)
 Print [1,2,4,5]
 
+**Remember the useful operators and how to use the += to add a count to a for loop also the option of enumarate to create tuples out of the string
+
